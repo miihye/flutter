@@ -11,4 +11,4 @@
 ## 3. 남은 질문 및 다음 행동
 * **질문:** 옵션 선택 버튼(점심/저녁)을 만들 때 기본 `ElevatedButton` 외에 토글 형태의 UI를 가장 쉽게 구현하는 위젯은 무엇인가?
 * **다음 행동:** `lib/main.dart`에 기본 뼈대 코드를 생성하고, 하드코딩된 메뉴 리스트 데이터 클래스 작성하기.
-* **제출 커밋 링크:** [https://github.com/miihye/flutter/commit/fc400f6fb506bce76c66720535b3f9c0900805eb]
+* **제출 커밋 링크:** [https://github.com/miihye/flutter/commit/7d15809bbf3b82db58e0171ca6dfc2ca8c177399]
