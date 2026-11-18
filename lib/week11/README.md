@@ -1,4 +1,4 @@
-# 11주차 과제 및 12주차 중간발표 준비
+# 11주차 과제
 
 ## 개인 프로젝트 개발 기록
 
@@ -51,4 +51,4 @@
 
 ### 5. 개인 저장소와 커밋 링크
 * **개인 저장소 URL:** [https://github.com/miihye/flutter]
-* **11주차 실습 커밋 URL:** [여기에 11주차 코드 push 후 생성된 커밋 링크 입력]
+* **11주차 실습 커밋 URL:** https://github.com/miihye/flutter/commit/7b138f5245ef68e21a97cb4ac82ba05e18fbe637
